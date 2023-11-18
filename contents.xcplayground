@@ -9,5 +9,7 @@
         <page name='ForLoopDemo'/>
         <page name='SetDemo'/>
         <page name='DictionaryDemo'/>
+        <page name='StringDemo'/>
+        <page name='FunctionDemo'/>
     </pages>
 </playground>
